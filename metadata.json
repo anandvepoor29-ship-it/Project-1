@@ -1,0 +1,6 @@
+{
+  "name": "AdOnWheel – Vehicle-Based Advertising Platform",
+  "description": "Transit outdoor advertising marketplace connecting brands with vehicle owners for moving vehicle ads across cars, autos, bikes, vans, and buses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
